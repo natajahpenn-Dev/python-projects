@@ -1,53 +1,50 @@
-# Python Projects
+# Python Software Projects
 
-This repository contains beginner Python projects that I built while learning software development.  
-These projects focus on practicing core programming concepts like variables, loops, conditionals, lists, dictionaries, and user input.
+This repository contains practical backend-focused Python applications built while developing software engineering skills.
 
-## 🚀 Projects
+---
+
+## 🔹 Mini Banking System (Featured Project)
+
+A command-line banking application that simulates core banking operations.
+
+### Features
+- Account creation with authentication
+- Secure login validation
+- Deposit and withdrawal functionality
+- Balance tracking
+- Input validation and error handling
+
+### Skills Demonstrated
+- Backend logic design
+- Data structures (dictionaries)
+- Function-based program structure
+- User authentication flow
+- Defensive programming
+
+---
+
+## 🔹 Additional Practice Projects
 
 ### 🎯 Number Guessing Game
-A simple console game where the user guesses a randomly generated number. The program gives feedback if the guess is too high or too low until the correct number is found.  
-**Concepts used:** loops, conditionals, random numbers, user input
+Focus: conditionals, loops, randomness
 
 ### 📝 To-Do List App
-A command-line task manager that lets users add, view, and delete tasks.  
-**Concepts used:** lists, functions, loops, menus, user input
+Focus: lists, functions, CRUD logic
 
-### 🧮 Calculator App
-A console-based calculator that supports addition, subtraction, multiplication, and division.  
-**Concepts used:** conditionals, user input, basic error checking
+### 🧮 Calculator
+Focus: user input, validation, control flow
 
 ### 📇 Contact Book
-A simple contact management system that allows users to add, view, and delete contacts (name and phone number).  
-**Concepts used:** dictionaries, loops, menus, user input
+Focus: dictionaries, data storage logic
 
 ### 🔐 Password Generator
-A tool that generates a random secure password based on a length chosen by the user.  
-**Concepts used:** loops, random, string library, user input
+Focus: randomness, string manipulation
 
 ---
 
-## 🛠️ Technologies Used
-
-- Python  
-- VS Code  
-- GitHub  
-
----
-
-## 👩‍💻 About Me
-
-I am a beginner software developer and Computer Science student learning Python and building projects to improve my programming and problem-solving skills.  
-This repository shows my progress as I work toward becoming a software engineer.
-
----
-
-## 📌 How to Run
-
-1. Make sure Python is installed  
-2. Download or clone this repository  
-3. Open a terminal in the project folder  
-4. Run any file like this:
-
-```bash
-python filename.py
+## 🛠 Technologies Used
+- Python
+- Git
+- GitHub
+- VS Code
